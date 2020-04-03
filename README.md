@@ -3,7 +3,7 @@
 The First Shared Task on Aggression Identification dealt with the classification of the aggression level of user posts at different social media platforms. It was part of the Workshop on Trolling, Aggression and Cyberbullying (TRAC 2018) at the International Conference of Computational Linguistics (COLING 2018).
 
 ### Citation
-If you use our work, please cite our paper [**Aggression Identification Using Deep Learning and Data Augmentation**](https://github.com/julian-risch/TRAC-COLING2020/raw/master/risch2018aggression.pdf) as follows:
+If you use our work, please cite our paper [**Aggression Identification Using Deep Learning and Data Augmentation**](https://github.com/julian-risch/TRAC-COLING2018/raw/master/risch2018aggression.pdf) as follows:
 
     @inproceedings{risch2018aggression,
     author = {Risch, Julian and Krestel, Ralf},
