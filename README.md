@@ -32,6 +32,6 @@ The other six files (`train_de.csv`, `train_es.csv`, `train_fr.csv`, `dev_de.csv
 Both the files contain 3 columns in the following format
 		`unique_id,text,aggression-level`
 
-The columns are separated by comma and follows a minimal quoting pattern (such that only those columns are quoted which are in multiple lines or contain quotes in the text).
+The columns are separated by comma and follows a minimal quoting pattern (such that only those columns are quoted that span multiple lines or contain quotes in the text).
 
 `train_de.csv`, `train_es.csv`, and `train_fr.csv` contain translations of the train set for the shared task in English. More specifically, the train set has been machine translated into German and afterwards translated back into English to generate `train_de.csv`. Similarly, the train set has been machine translated into Spanish and French and afterwards back into English. This has been done to augment the original training set and to increase the number of training examples. The machine translation adds variety to the training examples.
